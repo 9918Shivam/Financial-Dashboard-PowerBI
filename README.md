@@ -15,9 +15,7 @@ This is the **data analyst equivalent of a live web app** — just as a web deve
 
 ---
 
-## 🔴 Live Dashboard Preview
-
-> 📎 **[View the Live Dashboard on Power BI Service](#)** ← *(Replace `#` with your published Power BI link)*
+## 🔴 Dashboard Preview
 
 > 📸 **Dashboard Screenshots** — see the `/screenshots` folder for full-resolution previews.
 
@@ -39,9 +37,6 @@ financial-dashboard-powerbi/
 │   ├── profit_by_segment.png          # Segment breakdown visual
 │   └── country_analysis.png          # Geographic analysis visual
 │
-├── 📁 insights/
-│   └── key_findings.md                # Summary of business insights found
-│
 └── README.md                          # You are here
 ```
 
@@ -56,10 +51,8 @@ Just like a web developer uploads their HTML/CSS/JS code so others can see **how
 | `Financial_Sample.xlsx` | The raw data source — shows where the analysis starts | Source code / database |
 | `Financial_Sample_Dashboard.pbix` | The actual Power BI report — others can open it in Power BI Desktop | The entire codebase |
 | `screenshots/*.png` | Visual proof of the dashboard — what it looks like without needing Power BI installed | A deployed live website / demo |
-| `insights/key_findings.md` | A written summary of what you discovered | Documentation / comments in code |
 | `README.md` | Project description, how to use it, what tools were used | README in any code project |
 
-> ⚠️ **Note:** The `.pbix` file is large and binary. GitHub handles files up to 100MB. If it exceeds that, use [Git LFS](https://git-lfs.github.com/) or upload to OneDrive/Google Drive and link it in the README.
 
 ---
 
@@ -140,23 +133,6 @@ Here are the top findings from the analysis:
 | **DAX (Data Analysis Expressions)** | Custom measures (Profit Margin %, YoY Growth, etc.) |
 | **Power Query (M Language)** | Data cleaning and transformation |
 
----
-
-## 🚀 How to Use This Project
-
-### Option 1 — View the Live Dashboard (Recommended)
-Click the published Power BI link at the top of this README. No installation needed.
-
-### Option 2 — Open in Power BI Desktop
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-2. Clone or download this repository
-3. Open `report/Financial_Sample_Dashboard.pbix` in Power BI Desktop
-4. Explore all pages, visuals, and slicers interactively
-
-### Option 3 — Explore the Raw Data
-Open `data/Financial_Sample.xlsx` in Microsoft Excel or Google Sheets to explore the underlying dataset directly.
-
----
 
 ## 📐 DAX Measures Used
 
