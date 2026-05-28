@@ -17,7 +17,7 @@ This is the **data analyst equivalent of a live web app** — just as a web deve
 
 ## 🔴 Dashboard Preview
 
-> 📸 ![Financial Dashboard PowerBI](.screenshots/overview_page.png)
+> 📸 ![Financial Dashboard PowerBI](./screenshots/overview_page.png)
 
 ---
 
@@ -161,7 +161,7 @@ DIVIDE(
 
 | Overview | Profitability |
 |---|---|
-| *(.screenshots/country_analysis.png)* | *(screenshots/profit_by_segment.png)* |
+| *(./screenshots/country_analysis.png)* | *(./screenshots/profit_by_segment.png)* |
 
 > 📌 **How to add screenshots:** Export visuals from Power BI → File → Export → Export to PNG/PDF, save to the `/screenshots` folder and link them above.
 
