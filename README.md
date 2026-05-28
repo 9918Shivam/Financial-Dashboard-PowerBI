@@ -161,7 +161,7 @@ DIVIDE(
 
 | Overview | Profitability |
 |---|---|
-| *(./screenshots/country_analysis.png)* | *(./screenshots/profit_by_segment.png)* |
+| ./screenshots/country_analysis.png | ./screenshots/profit_by_segment.png |
 
 > 📌 **How to add screenshots:** Export visuals from Power BI → File → Export → Export to PNG/PDF, save to the `/screenshots` folder and link them above.
 
