@@ -163,10 +163,6 @@ DIVIDE(
 |---|---|
 | ![Profit_by_segment](./screenshots/profit_by_segment.png) | ![Country_analysis](./screenshots/country_analysis.png) |
 
-> 📌 **How to add screenshots:** Export visuals from Power BI → File → Export → Export to PNG/PDF, save to the `/screenshots` folder and link them above.
-
----
-
 
 
 ## 📄 License
