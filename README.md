@@ -1,1 +1,1 @@
-# Financial-sample-dashboard
+# Financial-dashboard-PowerBI
